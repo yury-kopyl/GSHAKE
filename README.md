@@ -7,6 +7,7 @@
 5. Enter `npm install` in cmd
 6. Enjoy!!! :boom:
 
+##### Folder tree:
 ```
 .
 ├── _gulp-tasks
@@ -22,6 +23,19 @@
 |   ├── ttf2woff.js
 |   ├── ttf2woff2.js
 |   └── uglify.js
-├── _data
-|   └── members.yml
+├── src
+|   ├── fonts
+|   ├── img
+|   |   ├── sprite
+|   |   └── svg
+|   ├── js
+|   |   └── lib
+|   ├── pug
+|   |   └── _layout
+|   |       └── __data.json
+|   ├── resource
+|   └── scss
+├── gulpfile.js
+├── gulpfile-config.json
+└── package.json
 ```
