@@ -8,7 +8,7 @@
 6. Enjoy!!! :boom:
 
 ##### Дерево проекта:
-```html
+```
 .
 ├── _gulp-tasks
 |   ├── _iconfont.scss
@@ -22,7 +22,7 @@
 |   ├── ttf2eot.js
 |   ├── ttf2woff.js
 |   ├── ttf2woff2.js
-|   └── <a href="uglify.js">uglify.js</a>
+|   └── uglify.j
 ├── src
 |   ├── fonts
 |   ├── img <!-- Single images like logo.png etc.--> 
