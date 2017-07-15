@@ -8,7 +8,7 @@
 6. Enjoy!!! :boom:
 
 ##### Дерево проекта:
-```
+```javascript
 .
 ├── _gulp-tasks
 |   ├── _iconfont.scss
@@ -25,7 +25,7 @@
 |   └── uglify.j
 ├── src
 |   ├── fonts
-|   ├── img <!-- Single images like logo.png etc.--> 
+|   ├── img // Single images like logo.png etc. 
 |   |   ├── sprite
 |   |   └── svg
 |   ├── js
