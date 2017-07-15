@@ -25,7 +25,7 @@
 |   └── [uglify.js](http://google.com)
 ├── src
 |   ├── fonts
-|   ├── img
+|   ├── img // Single images like logo.png etc. 
 |   |   ├── sprite
 |   |   └── svg
 |   ├── js
